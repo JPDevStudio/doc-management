@@ -9,7 +9,7 @@ function Navbar() {
                         bg-light shadow top-0">
             <div className="container">
                 <a className="navbar-brand" href="#">
-                    GFG DocManager
+                     DocManager
                 </a>
                 <button className="navbar-toggler"
                     type="button" data-toggle="collapse"
